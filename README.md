@@ -1,3 +1,3 @@
 # hello-worly
-This is a ordinary code
+#This is a ordinary code
 print('hello world')
